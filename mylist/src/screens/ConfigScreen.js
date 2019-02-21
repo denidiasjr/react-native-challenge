@@ -4,15 +4,15 @@ import {
     View
 } from 'react-native';
 
-class HomeScreen extends React.Component {
+class ConfigScreen extends React.Component {
 
     render() {
         return (
             <View>
-                <Text>Home screen!</Text>
+                <Text>Config screen!</Text>
             </View>
         );
     }
 }
 
-export default HomeScreen;
+export default ConfigScreen;
